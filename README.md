@@ -1,4 +1,5 @@
 # Voice-Controlled-Game
+## Files Info
 ###### [Game](https://github.com/iamjohnalex/Voice-Controlled-Game/tree/main/Game) folder
 >Contains the .mlapp file where you can access and edit/view code and GUI through MATLAB App Designer.
 
