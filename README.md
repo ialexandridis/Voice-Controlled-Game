@@ -19,5 +19,5 @@
   It also stores the average MFCCoefficients of the train data, so that 
   they are ready for use by the recognizer program.</sub>
 
-###### [StandaloneApp(https://github.com/iamjohnalex/Voice-Controlled-Game/tree/main/StandaloneApp) folder
+###### [StandaloneApp](https://github.com/iamjohnalex/Voice-Controlled-Game/tree/main/StandaloneApp) folder
 >Cointains the standalone application of the game 'VoiceControlledSnakeGame.exe'
