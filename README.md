@@ -1,8 +1,8 @@
 # Voice-Controlled-Game
-###### "Game" folder
+###### ["Game" folder](https://github.com/iamjohnalex/Voice-Controlled-Game/tree/main/Game)
 >Contains the .mlapp file where you can access and edit/view code and GUI through MATLAB App Designer.
 
-###### "SpeechRecognitionTesting" folder
+###### ["SpeechRecognitionTesting" folder](https://github.com/iamjohnalex/Voice-Controlled-Game/tree/main/SpeechRecognitionTesting)
 >**Contains all the .m files that contributed to the final game. More details...**
 <sub><br>*Commands_Training.m:<br>
   &nbsp;&nbsp;&nbsp;This program is for adding more training samples into the Speech Database 
@@ -19,5 +19,5 @@
   It also stores the average MFCCoefficients of the train data, so that 
   they are ready for use by the recognizer program.</sub>
 
-###### "StandaloneApp" folder
+###### ["StandaloneApp" folder](https://github.com/iamjohnalex/Voice-Controlled-Game/tree/main/StandaloneApp)
 >Cointains the standalone application of the game 'VoiceControlledSnakeGame.exe'
